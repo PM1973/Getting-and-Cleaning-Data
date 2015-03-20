@@ -6,3 +6,4 @@ There are three files
   - This file. README.md
   -  CodeBook.md.
   -  run_analysis.R
+  -  averages_data.txt
